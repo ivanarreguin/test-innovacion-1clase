@@ -26,5 +26,5 @@ Keras: es una biblioteca de Redes Neuronales de Código Abierto escrita en Pytho
 Backend: Se le llama backend al servidor, al modo administrador, al código que esta detrás de lo que ve el usuario.
 ![backend](https://user-images.githubusercontent.com/83669714/118031558-4b686d80-b32c-11eb-87d9-9acdbc64c544.png)
 
-
 Frontend: Se le llama frontend a la interfaz de usuario, a los iconos, botones, texto. A lo que ve el usuario de la aplicación.
+![front-end](https://user-images.githubusercontent.com/83669714/118031836-95e9ea00-b32c-11eb-989f-c1edd01a14a8.png)
